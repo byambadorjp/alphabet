@@ -24,6 +24,7 @@ export const Letters = () => {
             <LetterCard letter="O" imageUrl="https://i.pinimg.com/736x/05/79/5a/05795a16b647118ffb6629390e995adb.jpg"/>
             <LetterCard letter="W" imageUrl="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-zzckn&psig=AOvVaw0oAGCivI7fX7lilS2F_-aT&ust=1592722680785000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODRhsboj-oCFQAAAAAdAAAAABAX" />
             <LetterCard letter="Z" imageUrl="https://zedudeiscool.web.app/Zedude.png"/>
+            <LetterCard letter="0" imageUrl="https://pngimg.com/uploads/number0/number0_PNG19170.png" />
         </div>
     )
 }
