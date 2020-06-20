@@ -64,7 +64,10 @@
     height: 100%;
 }
 
+@for $i from 1 through 20 {
 
-.br-20 {
-    border-radius: 20px;
+    .br-#{$i} {
+        border-radius: $i + px;
+    }
+
 }
