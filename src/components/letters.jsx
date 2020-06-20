@@ -15,4 +15,5 @@ export const Letters = () => {
             <LetterCard letter="Q" imageUrl="https://d2sbsqqdu2ofn4.cloudfront.net/media/images/QoP_350px.max-400x400.png"/>
             <LetterCard letter="O" imageUrl="https://www.pinterest.com/pin/558024210077163839/" />
         </div>
+    )
 }
