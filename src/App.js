@@ -1,10 +1,13 @@
 import React from 'react';
 import './style/main.scss';
-import { Letters } from './components';
+import { Title, Letters } from './components';
 
 function App() {
     return (
-        <Letters />
+        <div className='flex-col'>
+            <Title />
+            <Letters />
+        </div>
     );
 }
 
