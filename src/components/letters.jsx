@@ -11,6 +11,7 @@ export const Letters = () => {
             <LetterCard letter="D" imageUrl="https://w0.pngwave.com/png/676/381/rubber-duck-png-clip-art.png" />
             <LetterCard letter="Y" imageUrl="https://www.clipartmax.com/png/middle/317-3178553_yoyo-clipart-png-yoyo-clipart.png" />
             <LetterCard letter="E" imageUrl="http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/128/22275-eagle-icon.png" />
+            <LetterCard letter="Q" imageUrl="https://d2sbsqqdu2ofn4.cloudfront.net/media/images/QoP_350px.max-400x400.png"/>
         </div>
     )
 }
