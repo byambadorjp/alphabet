@@ -14,6 +14,7 @@ export const Letters = () => {
             <LetterCard letter="E" imageUrl="http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/128/22275-eagle-icon.png" />
             <LetterCard letter="Q" imageUrl="https://d2sbsqqdu2ofn4.cloudfront.net/media/images/QoP_350px.max-400x400.png"/>
             <LetterCard letter="O" imageUrl="https://i.pinimg.com/736x/05/79/5a/05795a16b647118ffb6629390e995adb.jpg"/>
+            <LetterCard letter="W" imageUrl="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-zzckn&psig=AOvVaw0oAGCivI7fX7lilS2F_-aT&ust=1592722680785000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODRhsboj-oCFQAAAAAdAAAAABAX" />
         </div>
     )
 }
