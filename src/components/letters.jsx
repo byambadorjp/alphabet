@@ -9,6 +9,7 @@ export const Letters = () => {
             <LetterCard letter="C" imageUrl="https://www.festivalclaca.cat/pics/b/3/37445_candy-png.png" />
             <LetterCard letter="N" imageUrl="https://cdn2.vectorstock.com/i/1000x1000/51/36/logo-letter-n-glitch-distortion-vector-22855136.jpg"/>
             <LetterCard letter="D" imageUrl="https://w0.pngwave.com/png/676/381/rubber-duck-png-clip-art.png" />
+            <LetterCard letter="O" imageUrl="https://www.pinterest.com/pin/558024210077163839/" />
         </div>
     )
 }
