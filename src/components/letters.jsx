@@ -13,7 +13,7 @@ export const Letters = () => {
             <LetterCard letter="Y" imageUrl="https://www.clipartmax.com/png/middle/317-3178553_yoyo-clipart-png-yoyo-clipart.png" />
             <LetterCard letter="E" imageUrl="http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/128/22275-eagle-icon.png" />
             <LetterCard letter="Q" imageUrl="https://d2sbsqqdu2ofn4.cloudfront.net/media/images/QoP_350px.max-400x400.png"/>
-            <LetterCard letter="O" imageUrl="https://www.pinterest.com/pin/558024210077163839/" />
+            <LetterCard letter="O" imageUrl="https://i.pinimg.com/736x/05/79/5a/05795a16b647118ffb6629390e995adb.jpg"/>
         </div>
     )
 }
