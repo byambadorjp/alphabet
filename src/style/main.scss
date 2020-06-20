@@ -54,6 +54,9 @@
     .mt-#{$i} {
         margin-top: fib($i) * $baseline;
     }
+    .ma-#{$i} {
+        margin: fib($i) * $baseline;
+    }
 }
 
 .w100 {
