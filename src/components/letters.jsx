@@ -15,7 +15,7 @@ export const Letters = () => {
             {/* I */}
             <LetterCard letter="J" imageUrl="https://www.google.com/imgres?imgurl=https%3A%2F%2Ffiles2.abingcdn.com%2Fbalkaneu.com%2Fuploads%2F2019%2F10%2F21185528%2Fthumbnail-4.jpg&imgrefurl=https%3A%2F%2Fbalkaneu.com%2Fthe-joker-sparks-political-controversy-in-greece%2F&tbnid=WUP-w0smWtu3fM&vet=12ahUKEwi-hMPB7I_qAhUaR5QKHRhOCcMQMygEegUIARCvAQ..i&docid=f3bvkA7G1yZIBM&w=1080&h=1080&q=joker&ved=2ahUKEwi-hMPB7I_qAhUaR5QKHRhOCcMQMygEegUIARCvAQ" />
             <LetterCard letter="K" imageUrl="http://icons.iconarchive.com/icons/iconka/landmarks/128/kangaroo-icon.png" />
-            {/* L */}
+            <LetterCard letter="L" imageUrl="https://w7.pngwing.com/pngs/152/1021/png-transparent-lion-cartoon-animation-lion-lion-mammal-animals-cat-like-mammal.png"/>
             {/* M */}
             <LetterCard letter="N" imageUrl="https://cdn2.vectorstock.com/i/1000x1000/51/36/logo-letter-n-glitch-distortion-vector-22855136.jpg"/>
             <LetterCard letter="O" imageUrl="https://i.pinimg.com/736x/05/79/5a/05795a16b647118ffb6629390e995adb.jpg"/>
