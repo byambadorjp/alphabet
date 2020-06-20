@@ -1,0 +1,65 @@
+@import './variables.scss';
+@import './flex.scss';
+@import './typography.scss';
+
+@function pow($base, $exp) {
+    $res: 1;
+    @for $i from 1 through $exp {
+        $res: $res * $base;
+    }
+    @return $res;
+}
+
+@function fib($n) {
+    @if $n == 1 {
+        @return 1;
+    }
+    @if $n == 2 {
+        @return 1;
+    }
+    @return fib($n - 1) + fib($n - 2);
+} 
+
+
+@each $name, $color in $colors {
+    .c-#{$name} {
+        color: $color;
+    }
+
+    .bgc-#{$name} {
+        background-color: $color;
+    }
+
+    @for $i from 1 through 10 {
+        .br-#{$name}-#{$i} {
+            border: solid $color $i + px;
+        }
+    }
+}
+
+@for $i from 1 through 20 {
+    .h-#{$i} {
+        height: fib($i) * $baseline;
+    }
+    .w-#{$i} {
+        width: fib($i) * $baseline;
+    }
+    .pa-#{$i} {
+        padding: fib($i) * $baseline;
+    }
+    .ph-#{$i} {
+        padding-left: fib($i) * $baseline;
+        padding-right: fib($i) * $baseline;
+    }
+    .mt-#{$i} {
+        margin-top: fib($i) * $baseline;
+    }
+}
+
+.w100 {
+    width: 100%;
+}
+
+.h100 {
+    height: 100%;
+}
