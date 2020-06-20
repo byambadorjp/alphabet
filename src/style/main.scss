@@ -63,3 +63,11 @@
 .h100 {
     height: 100%;
 }
+
+@for $i from 1 through 20 {
+
+    .br-#{$i} {
+        border-radius: $i + px;
+    }
+
+}
