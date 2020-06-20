@@ -15,18 +15,7 @@ export const Letters = () => {
             <LetterCard letter="N" imageUrl="https://cdn2.vectorstock.com/i/1000x1000/51/36/logo-letter-n-glitch-distortion-vector-22855136.jpg"/>
 
             <LetterCard letter="D" imageUrl="https://w0.pngwave.com/png/676/381/rubber-duck-png-clip-art.png" />
-
-            <LetterCard letter="Y" imageUrl="https://www.clipartmax.com/png/middle/317-3178553_yoyo-clipart-png-yoyo-clipart.png" />
-            <LetterCard letter="E" imageUrl="http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/128/22275-eagle-icon.png" />
-            <LetterCard letter="Q" imageUrl="https://d2sbsqqdu2ofn4.cloudfront.net/media/images/QoP_350px.max-400x400.png"/>
-
-            <LetterCard letter="P" imageUrl="https://i7.pngguru.com/preview/637/838/386/airplane-aircraft-plane-thumbnail.jpg" />
-            <LetterCard letter="R" imageUrl="https://i.pinimg.com/originals/08/79/b0/0879b0c01f6a5b658ce153fd2845ddf0.png" />
-            <LetterCard letter="O" imageUrl="https://i.pinimg.com/736x/05/79/5a/05795a16b647118ffb6629390e995adb.jpg"/>
-            <LetterCard letter="W" imageUrl="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-zzckn&psig=AOvVaw0oAGCivI7fX7lilS2F_-aT&ust=1592722680785000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODRhsboj-oCFQAAAAAdAAAAABAX" />
-            <LetterCard letter="Z" imageUrl="https://zedudeiscool.web.app/Zedude.png"/>
-            <LetterCard letter="0" imageUrl="https://pngimg.com/uploads/number0/number0_PNG19170.png" />
-            <LetterCard letter="$" imageUrl="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRPI5fTlr1BgFnsLFvY2Vhu3hTkZOR6Bg8S7GB9CSu5pYA9jLrU&usqp=CAU"/>
+            <LetterCard letter="P" imageUrl="https://i7.pngguru.com/preview/637/838/386/airplane-aircraft-plane-thumbnail.https://i.pinimg.com/originals/5f/4b/0c/5f4b0c68d578c109b5d81b53957c96ac.jpg" />
         </div>
     )
 }
